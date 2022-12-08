@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.outer{
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+}
+
+a{
+    color: green;
+    font-size: 20px;
+}
+
+h3{
+    color: gray;
+}
+
+.footer{
+    color: gray;
+    text-align: right;
+    font-size: 24px;    
+}
